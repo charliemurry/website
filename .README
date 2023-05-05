@@ -1,0 +1,9 @@
+Workflow
+
+1. Change content
+2. Serve locally to check using ```hugo server```
+3. Build using ```hugo``` --> changes files in public/
+4. Add/commit/push public/
+5. Add/commit/push main repo
+
+
