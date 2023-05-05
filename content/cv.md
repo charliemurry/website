@@ -4,13 +4,13 @@ title = "Cirriculum Vitae"
 
 ## Cirriculum Vitae
 
-Download my complete curriculum vitae [here](http://charliemurry.github.io/files/CharlesMurryCV.pdf).
+Download my complete curriculum vitae [here](/CharlesMurryCV.pdf).
 
 #### Current Academic Appointment
 
-2023 - present, Wieler Family Associate Professor (with tenure) of Economics in the Morrissey College of Arts and Sciences, **Boston College**, Chestnut Hill, MA USA   
+<!-- 2023 - present, Wieler Family Associate Professor (with tenure) of Economics in the Morrissey College of Arts and Sciences, **Boston College**, Chestnut Hill, MA USA    -->
 
-
+2020 - present, Wieler Family Assistant Professor of Economics in the Morrissey College of Arts and Sciences, Boston College, Chestnut Hill, MA USA
 
 
 #### Previous Employment
