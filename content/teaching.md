@@ -8,20 +8,13 @@ title = "Teaching and Advising"
 
 Meetings are at 10:30am in Maloney 296.  
 
-| Date | Topic | 
-| ---- | ----- | 
-| 2/16 | Research Meeting |
-| 2/23 | No Meeting | 
-| 3/2  | Research Meeting |
-| 3/9  | No Meeting |
-| 3/16 | Research Meeting | 
-| 3/23 | Research Meeting | 
-| 3/30 | No Meeting | 
-| 4/6  | Research Meeting | 
-| 4/13 | No Meeting | 
-| 4/20 | Research Meeting | 
-| 4/27 | No Meeting |
-| 5/4  | Research Meeting |
+| Date | Topic | Notes |
+| ---- | ----- | ----- |
+| 5/18 | Research Meeting |
+| 5/25 | Reading Group: TBD |
+| 6/6  | Research Meeting | **Note: Tuesday**
+
+I am traveling a lot after that, so TBD until early July. 
 
 
 ## PhD Office Hours
