@@ -6,7 +6,7 @@ title = "Teaching and Advising"
 
 #### Spring 2023
 
-Meetings are at 10:30am in Maloney 296.  
+Summer meetings are in the conference room, thrid floor Maloney.  
 
 | Date | Topic | Notes |
 | ---- | ----- | ----- |
