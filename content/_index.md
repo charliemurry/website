@@ -14,6 +14,11 @@ For a complete list of my publications, visit my [research](/research) page or v
 
 ## Current Research
 
+[Conformant and Efficient Estimation of Discrete Choice Demand Models](http://personal.psu.edu/plg15/files/preprint/like-blp.pdf) (June 2022)  
+(with Paul Grieco, Joris Pinkse, Stephan Sagl)  
+We have a companion Julia package called [GruMPS](https://nittanylion.github.io/Grumps.jl/stable/) that is accessible from Julia Packages:
+```Pkg.add("Grumps")```
+
 [Price Discrimination in International Airline Markets](https://arxiv.org/abs/2102.05751)  
 (with Gaurab Aryal and Jonathan W. Williams)  
 forthcoming at *Review of Economic Studies*  
@@ -27,8 +32,7 @@ Revision requested from *The Quarterly Journal of Economics*
 (with Fei Li, Can Tan, and Yiyi Zhou)  
 Revision requested at *International Economic Review*  
 
-[Conformant and Efficient Estimation of Discrete Choice Demand Models](http://personal.psu.edu/plg15/files/preprint/like-blp.pdf) (June 2022)  
-(with Paul Grieco, Joris Pinkse, Stephan Sagl)  
+
 
 ---
 For a complete list of my publications, visit my [research](/research) page. 
