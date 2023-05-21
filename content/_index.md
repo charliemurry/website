@@ -14,19 +14,25 @@ For a complete list of my publications, visit my [research](/research) page or v
 
 ## Current Research
 
-[Conformant and Efficient Estimation of Discrete Choice Demand Models](http://personal.psu.edu/plg15/files/preprint/like-blp.pdf) (June 2022)  
-(with Paul Grieco, Joris Pinkse, Stephan Sagl)  
-We have a companion Julia package called [GruMPS](https://nittanylion.github.io/Grumps.jl/stable/) that is accessible from Julia Packages:
-```Pkg.add("Grumps")```
+[Conformant and Efficient Estimation of Discrete Choice Demand Models](http://personal.psu.edu/plg15/files/preprint/like-blp.pdf) (May 2023, submitted)  
+(with Paul Grieco, Joris Pinkse, Stephan Sagl) 
+- We propose a likelihood based estimator for BLP-style models that natively incorporates multiple sources of data --  "micro" data from individual purchases and aggregate data on shares and prices.  
+- There is a companion Julia package, [GruMPS](https://nittanylion.github.io/Grumps.jl/stable/), that implements our method.  
+<br>
+```Pkg.add("Grumps")``` in Julia.
 
-[Price Discrimination in International Airline Markets](https://arxiv.org/abs/2102.05751)  
-(with Gaurab Aryal and Jonathan W. Williams)  
-forthcoming at *Review of Economic Studies*  
-<!-- We develop and estimate a model of dynamic pricing and price discrimination of a monopolist airline -->
+<br>
 
 [The Evolution of Market Power in the US Automobile Industry](/working_papers/CarMarkupsMarch2023.pdf) (March 2023)    
 (with Paul Grieco and Ali Yurukoglu)  
 Revision requested from *The Quarterly Journal of Economics*
+- We estimate a decrease in markups and a rise in consumer surplus in the US automobile market from 1980--2018. Production efficiencies and rising product quality are the main sources for the increase in consumer surplus, not changes in market concentration or changing preferences. 
+
+[Price Discrimination in International Airline Markets](https://arxiv.org/abs/2102.05751)  
+(with Gaurab Aryal and Jonathan W. Williams)  
+forthcoming at *Review of Economic Studies*  
+- We develop and estimate a model of dynamic pricing and price discrimination of a monopolist airline to quantify how consumers and firms split surplus. 
+- Airlines achieve 77% of 1st-best welfare and most of the gap is due to private information by passengers, not airline uncertainty about future arriving passengers. 
 
 [Inventory Management in Decentralized Markets](/working_papers/inventory_march2023.pdf) (March 2023)  
 (with Fei Li, Can Tan, and Yiyi Zhou)  
