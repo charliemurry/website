@@ -38,6 +38,14 @@ forthcoming at *Review of Economic Studies*
 (with Fei Li, Can Tan, and Yiyi Zhou)  
 Revision requested at *International Economic Review*  
 
+<!-- [Price Discrimination and Product Variety: the Case of Implantable Medical Devices](./)
+(with Kritika Goel, Michael Grubb, and Julie Mortimer)
+- Direct price discrimination promotes efficiencies in manufacturers' product line decisions. Fewer products are introduced when manufacturers can price discriminate.  
+- We show this in the context of medical devices, where price discrimination allows smaller hospitals to purchase MRI-compatible heart devices for lower prices.  -->
+
+<!-- [Overcoming the exposure problem: The case of K-12 broadband procurement(./)]
+(with Gaurab Aryal, Pallavi Pal, and Arnab Palit) -->
+
 
 
 ---
