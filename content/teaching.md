@@ -12,7 +12,9 @@ Summer meetings are in the conference room, thrid floor Maloney.
 | ---- | ----- | ----- |
 | 5/18 | Research Meeting |
 | 5/25 | Reading Group: TBD |
-| 6/6  | Research Meeting | **Note: Tuesday**
+| 6/6  | Research Meeting | **Note: Tuesday** |
+| 8/10 | Rodrigo Seminar  | Details TBD |
+
 
 I am traveling a lot after that, so TBD until early July. 
 
