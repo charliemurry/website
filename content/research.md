@@ -44,12 +44,12 @@ Revision requested @ ***International Economic Review***
 (with Paul Grieco and Ali Yurukoglu)  
 Revision requested @ ***The Quarterly Journal of Economics***   
 
+[Conformant and Efficient Estimation of Discrete Choice Demand Models](/working_papers/like-blp.pdf) (May 2023)  
+(with Paul Grieco, Joris Pinkse, Stephan Sagl)  
+
 <br>
 
 #### Drafts and Ongoing Projects
-
-[Conformant and Efficient Estimation of Discrete Choice Demand Models](/working_papers/like-blp.pdf) (June 2022)  
-(with Paul Grieco, Joris Pinkse, Stephan Sagl)  
 
 Dynamic Pricing and Strategic Delay in the Market for Used Cars  
 (with Karl Schurter)  

@@ -14,9 +14,9 @@ For a complete list of my publications, visit my [research](/research) page or v
 
 ## Current Research
 
-[Conformant and Efficient Estimation of Discrete Choice Demand Models](http://personal.psu.edu/plg15/files/preprint/like-blp.pdf) (May 2023, submitted)  
+[Conformant and Efficient Estimation of Discrete Choice Demand Models](http://personal.psu.edu/plg15/files/preprint/like-blp.pdf) (May 2023)  
 (with Paul Grieco, Joris Pinkse, Stephan Sagl) 
-- We propose a likelihood based estimator for BLP-style models that natively incorporates multiple sources of data --  "micro" data from individual purchases and aggregate data on shares and prices.  
+- We propose a likelihood based estimator for BLP-style demand models that natively incorporates multiple sources of data:  "micro" data from individual purchases and aggregate data on shares and prices.  
 - There is a companion Julia package, [GruMPS](https://nittanylion.github.io/Grumps.jl/stable/), that implements our method.  
 <br>
 ```Pkg.add("Grumps")``` in Julia.
@@ -37,6 +37,9 @@ forthcoming at *Review of Economic Studies*
 [Inventory Management in Decentralized Markets](/working_papers/inventory_march2023.pdf) (March 2023)  
 (with Fei Li, Can Tan, and Yiyi Zhou)  
 Revision requested at *International Economic Review*  
+- We present a model of an intermediary that faces search frictions in both the "retail" and "wholesale" market. In equilibrium, intermediaries hold and manage inventory.
+- We quantify the model and find that incentives for inventory management in the used car market come from search frictions, not inventory holding costs.. 
+  
 
 <!-- [Price Discrimination and Product Variety: the Case of Implantable Medical Devices](./)
 (with Kritika Goel, Michael Grubb, and Julie Mortimer)
