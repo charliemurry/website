@@ -26,19 +26,40 @@ For a complete list of my publications, visit my [research](/research) page or v
 [The Evolution of Market Power in the US Automobile Industry](/working_papers/CarMarkupsMarch2023.pdf) (March 2023)    
 (with Paul Grieco and Ali Yurukoglu)  
 Revision requested from *The Quarterly Journal of Economics*
+<details>
+<summary>Summary</summary>
+
 - We estimate a decrease in markups and a rise in consumer surplus in the US automobile market from 1980--2018. Production efficiencies and rising product quality are the main sources for the increase in consumer surplus, not changes in market concentration or changing preferences. 
+
+</details>
+
+<br>
 
 [Price Discrimination in International Airline Markets](https://arxiv.org/abs/2102.05751)  
 (with Gaurab Aryal and Jonathan W. Williams)  
 forthcoming at *Review of Economic Studies*  
+<details>
+<summary>Summary</summary>
+
 - We develop and estimate a model of dynamic pricing and price discrimination of a monopolist airline to quantify how consumers and firms split surplus. 
 - Airlines achieve 77% of 1st-best welfare and most of the gap is due to private information by passengers, not airline uncertainty about future arriving passengers. 
 
+</details>
+
+<br>
+
 [Inventory Management in Decentralized Markets](/working_papers/inventory_march2023.pdf) (March 2023)  
 (with Fei Li, Can Tan, and Yiyi Zhou)  
-Revision requested at *International Economic Review*  
-- We present a model of an intermediary that faces search frictions in both the "retail" and "wholesale" market. In equilibrium, intermediaries hold and manage inventory.
-- We quantify the model and find that incentives for inventory management in the used car market come from search frictions, not inventory holding costs.. 
+Revision requested at *International Economic Review* 
+<details>
+<summary>Summary</summary>
+
+- We present a model of an intermediary that faces search frictions in both the "retail" and "wholesale" market. In equilibrium, intermediaries hold and manage inventory.  
+- We quantify the model and find that incentives for inventory management in the used car market come from search frictions, not inventory holding costs.
+
+</details>
+
+
   
 
 <!-- [Price Discrimination and Product Variety: the Case of Implantable Medical Devices](./)
