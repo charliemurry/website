@@ -12,7 +12,7 @@ Download my complete curriculum vitae [here](/CharlesMurryCV.pdf).
 
 <!-- 2020 - present, Wieler Family Assistant Professor of Economics in the Morrissey College of Arts and Sciences, Boston College, Chestnut Hill, MA USA -->
 
-#### Previous Employment
+#### Previous Academic Positions
 
 2020 - 2023, Wieler Family Assistant Professor of Economics in the Morrissey College of Arts and Sciences, Boston College, Chestnut Hill, MA USA
 
