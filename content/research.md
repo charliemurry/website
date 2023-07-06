@@ -40,7 +40,7 @@ Forthcoming at ***Review of Economic Studies***, 2023.
 (with Fei Li, Can Tian, and Yiyi Zhou)   
 Revision requested @ ***International Economic Review***   
 
-[The Evolution of Market Power in the US Automobile Industry](/working_papers/CarMarkupsMarch2023.pdf)  
+[The Evolution of Market Power in the US Automobile Industry](/working_papers/CarMarkupsJuly2023.pdf)  
 (with Paul Grieco and Ali Yurukoglu)  
 Revision requested @ ***The Quarterly Journal of Economics***   
 
