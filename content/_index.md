@@ -23,9 +23,9 @@ For a complete list of my publications, visit my [research](/research) page or v
 
 <br>
 
-[The Evolution of Market Power in the US Automobile Industry](/working_papers/CarMarkupsJuly2023.pdf) (March 2023)    
+[The Evolution of Market Power in the US Automobile Industry](/working_papers/CarMarkupsJuly2023.pdf) (July 2023)    
 (with Paul Grieco and Ali Yurukoglu)  
-Revision requested from *The Quarterly Journal of Economics*
+Accepted for publication at *The Quarterly Journal of Economics*
 <details>
 <summary>Summary</summary>
 

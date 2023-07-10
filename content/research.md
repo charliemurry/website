@@ -4,7 +4,11 @@ title = "Research"
 
 #### Publications and Accepted Manuscripts
 
-1. [Price Discrimination in International Airline Markets](http://track.smtpsendmail.com/9032119/c?p=cNQE9kK5vkzi0JJUlQ6s8FLLjV7Z4dX2odFlWBZGQv3cZ3pKuI5ejgOBfkOBK0Hc9-2187DqNTXQLblX_5BfVCAQRHowmgLP9tOf8sjEPeR8ZnO22OMzWOvEyvmVpky_Q07tP-mYb4tJar1INQpJPzwNenMFZ9q-rHkDJU8yOu3hdUgcqCHxggghAftnMENvAAmf8qT-xTfJfPz3nZe9pfiyAGzIsPx8YTDPKc-WUDFUBcfuFcbc6kMVHKKrYKuBHqGC6esvRHL3EZF3OrVm1W52rhgv1VKopyO31PznXXBF_NxobxhPIldLtIlBNYNWRl-TeeYqpMfBarn0GjgSeJemYablOsD6d6PlIKII4yHgwUT9_BSfmpU2eJjNJ_VC)  
+1. [The Evolution of Market Power in the US Automobile Industry](/working_papers/CarMarkupsJuly2023.pdf)  
+(with Paul Grieco and Ali Yurukoglu)  
+Accepted @ ***The Quarterly Journal of Economics***   
+
+2. [Price Discrimination in International Airline Markets](http://track.smtpsendmail.com/9032119/c?p=cNQE9kK5vkzi0JJUlQ6s8FLLjV7Z4dX2odFlWBZGQv3cZ3pKuI5ejgOBfkOBK0Hc9-2187DqNTXQLblX_5BfVCAQRHowmgLP9tOf8sjEPeR8ZnO22OMzWOvEyvmVpky_Q07tP-mYb4tJar1INQpJPzwNenMFZ9q-rHkDJU8yOu3hdUgcqCHxggghAftnMENvAAmf8qT-xTfJfPz3nZe9pfiyAGzIsPx8YTDPKc-WUDFUBcfuFcbc6kMVHKKrYKuBHqGC6esvRHL3EZF3OrVm1W52rhgv1VKopyO31PznXXBF_NxobxhPIldLtIlBNYNWRl-TeeYqpMfBarn0GjgSeJemYablOsD6d6PlIKII4yHgwUT9_BSfmpU2eJjNJ_VC)  
 (with Gaurab Aryal and Jonathan W. Williams)   
 Forthcoming at ***Review of Economic Studies***, 2023. 
 
@@ -39,10 +43,6 @@ Forthcoming at ***Review of Economic Studies***, 2023.
 [Inventory Management in Decentralized Markets](/working_papers/inventory_march2023.pdf), 2023.    
 (with Fei Li, Can Tian, and Yiyi Zhou)   
 Revision requested @ ***International Economic Review***   
-
-[The Evolution of Market Power in the US Automobile Industry](/working_papers/CarMarkupsJuly2023.pdf)  
-(with Paul Grieco and Ali Yurukoglu)  
-Revision requested @ ***The Quarterly Journal of Economics***   
 
 [Conformant and Efficient Estimation of Discrete Choice Demand Models](/working_papers/like-blp.pdf) (May 2023)  
 (with Paul Grieco, Joris Pinkse, Stephan Sagl)  
