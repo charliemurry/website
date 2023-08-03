@@ -44,7 +44,7 @@ Forthcoming at ***Review of Economic Studies***, 2023.
 (with Fei Li, Can Tian, and Yiyi Zhou)   
 Revision requested @ ***International Economic Review***   
 
-[Conformant and Efficient Estimation of Discrete Choice Demand Models](/working_papers/like-blp.pdf) (May 2023)  
+[Conformant and Efficient Estimation of Discrete Choice Demand Models](https://paulgrieco.github.io/files/preprint/like-blp.pdf) (May 2023)  
 (with Paul Grieco, Joris Pinkse, Stephan Sagl)  
 
 <br>
