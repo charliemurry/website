@@ -50,7 +50,7 @@ forthcoming at *Review of Economic Studies*
 
 [Inventory Management in Decentralized Markets](/working_papers/inventory_march2023.pdf) (March 2023)  
 (with Fei Li, Can Tan, and Yiyi Zhou)  
-Revision requested at *International Economic Review* 
+Conditionally accepted at *International Economic Review* 
 <details>
 <summary>Summary</summary>
 
