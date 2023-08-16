@@ -38,6 +38,7 @@ Accepted for publication at *The Quarterly Journal of Economics*
 [Price Discrimination in International Airline Markets](https://arxiv.org/abs/2102.05751)  
 (with Gaurab Aryal and Jonathan W. Williams)  
 forthcoming at *Review of Economic Studies*  
+[replicaiton package](https://zenodo.org/record/7392123)
 <details>
 <summary>Summary</summary>
 
@@ -50,7 +51,7 @@ forthcoming at *Review of Economic Studies*
 
 [Inventory Management in Decentralized Markets](/working_papers/inventory_march2023.pdf) (March 2023)  
 (with Fei Li, Can Tan, and Yiyi Zhou)  
-Conditionally accepted at *International Economic Review* 
+Accepted at *International Economic Review* 
 <details>
 <summary>Summary</summary>
 

@@ -10,11 +10,12 @@ Accepted @ ***The Quarterly Journal of Economics***
 
 1. [Inventory Management in Decentralized Markets](/working_papers/inventory_march2023.pdf), 2023.    
 (with Fei Li, Can Tian, and Yiyi Zhou)   
-Conditionally accepted @ ***International Economic Review***   
+Accepted @ ***International Economic Review***   
 
 1. [Price Discrimination in International Airline Markets](http://track.smtpsendmail.com/9032119/c?p=cNQE9kK5vkzi0JJUlQ6s8FLLjV7Z4dX2odFlWBZGQv3cZ3pKuI5ejgOBfkOBK0Hc9-2187DqNTXQLblX_5BfVCAQRHowmgLP9tOf8sjEPeR8ZnO22OMzWOvEyvmVpky_Q07tP-mYb4tJar1INQpJPzwNenMFZ9q-rHkDJU8yOu3hdUgcqCHxggghAftnMENvAAmf8qT-xTfJfPz3nZe9pfiyAGzIsPx8YTDPKc-WUDFUBcfuFcbc6kMVHKKrYKuBHqGC6esvRHL3EZF3OrVm1W52rhgv1VKopyO31PznXXBF_NxobxhPIldLtIlBNYNWRl-TeeYqpMfBarn0GjgSeJemYablOsD6d6PlIKII4yHgwUT9_BSfmpU2eJjNJ_VC)  
 (with Gaurab Aryal and Jonathan W. Williams)   
-Forthcoming at ***Review of Economic Studies***, 2023. 
+Forthcoming at ***Review of Economic Studies***, 2023.  
+[replicaiton package](https://zenodo.org/record/7392123)  
 
 1. [Franchise Contract Regulations and Local Market Structure](/published_papers/Murry_Newberry_JLE_2022.pdf)  
 (with Peter Newberry)  
@@ -23,7 +24,8 @@ Forthcoming at ***Review of Economic Studies***, 2023.
 1. [Market Structure and Competition in Airline Markets](/published_papers/CMT_JPE_2021.pdf)  
 (with Federico Ciliberto and Elie Tamer)  
 ***Journal of Political Economy***  vol. 129, no. 11 (2021).  
-[Appendix and replication files](http://charliemurry.github.io/files/CMT_Oct2020_appendix.pdf)  
+[Online Appendix](/published_papers/CMT_Appendix.pdf)  
+[Replication files](https://www.journals.uchicago.edu/doi/suppl/10.1086/715848)  
 
 1. [Intermediaries and product quality in used car markets](/published_papers/Biglaiser_etal_RAND_2020.pdf)  
 (with Gary Biglaiser, Fei Li, and Yiyi Zhou)  
