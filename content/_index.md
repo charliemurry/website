@@ -15,7 +15,8 @@ For a complete list of my publications, visit my [research](/research) page or v
 ## Current Research
 
 [Conformant and Efficient Estimation of Discrete Choice Demand Models](https://paulgrieco.github.io/files/preprint/like-blp.pdf) (May 2023)  
-(with Paul Grieco, Joris Pinkse, Stephan Sagl) 
+(with Paul Grieco, Joris Pinkse, Stephan Sagl)  
+Revisions requested from *Econometrica*  
 - We propose a likelihood based estimator for BLP-style demand models that natively incorporates multiple sources of data:  "micro" data from individual purchases and aggregate data on shares and prices.  
 - There is a companion Julia package, [GruMPS](https://nittanylion.github.io/Grumps.jl/stable/), that implements our method.  
 <br>
