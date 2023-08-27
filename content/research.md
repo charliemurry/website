@@ -12,7 +12,7 @@ Accepted @ ***The Quarterly Journal of Economics***
 (with Fei Li, Can Tian, and Yiyi Zhou)   
 Accepted @ ***International Economic Review***   
 
-1. [Price Discrimination in International Airline Markets](http://track.smtpsendmail.com/9032119/c?p=cNQE9kK5vkzi0JJUlQ6s8FLLjV7Z4dX2odFlWBZGQv3cZ3pKuI5ejgOBfkOBK0Hc9-2187DqNTXQLblX_5BfVCAQRHowmgLP9tOf8sjEPeR8ZnO22OMzWOvEyvmVpky_Q07tP-mYb4tJar1INQpJPzwNenMFZ9q-rHkDJU8yOu3hdUgcqCHxggghAftnMENvAAmf8qT-xTfJfPz3nZe9pfiyAGzIsPx8YTDPKc-WUDFUBcfuFcbc6kMVHKKrYKuBHqGC6esvRHL3EZF3OrVm1W52rhgv1VKopyO31PznXXBF_NxobxhPIldLtIlBNYNWRl-TeeYqpMfBarn0GjgSeJemYablOsD6d6PlIKII4yHgwUT9_BSfmpU2eJjNJ_VC)  
+1. [Price Discrimination in International Airline Markets](https://academic.oup.com/restud/advance-article-abstract/doi/10.1093/restud/rdad037/7084588?redirectedFrom=fulltext)  
 (with Gaurab Aryal and Jonathan W. Williams)   
 Forthcoming at ***Review of Economic Studies***, 2023.  
 [replicaiton package](https://zenodo.org/record/7392123)  
