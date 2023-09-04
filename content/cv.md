@@ -41,6 +41,7 @@ See [my research page](/research) for an updated list of publications and workin
 ##### *Boston College*   
 Industrial Organization (PhD)  
 Empirical Methods in Applied Microeconomics (PhD)  
+Industrial Organization: Competition and Antitrust (undergraduate)  
 Economics of Sports (undergraduate)  
 
 ##### *MIT*   
