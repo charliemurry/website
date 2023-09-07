@@ -17,16 +17,21 @@ For a complete list of my publications, visit my [research](/research) page or v
 [Conformant and Efficient Estimation of Discrete Choice Demand Models](https://paulgrieco.github.io/files/preprint/like-blp.pdf) (May 2023)  
 (with Paul Grieco, Joris Pinkse, Stephan Sagl)  
 Revisions requested from *Econometrica*  
+[Julia Package](https://nittanylion.github.io/Grumps.jl/dev/) documentation, or ```Pkg.add("Grumps")``` in Julia 
+<details>
+<summary>Summary</summary>
+
 - We propose a likelihood based estimator for BLP-style demand models that natively incorporates multiple sources of data:  "micro" data from individual purchases and aggregate data on shares and prices.  
-- There is a companion Julia package, [GruMPS](https://nittanylion.github.io/Grumps.jl/stable/), that implements our method.  
-<br>
-```Pkg.add("Grumps")``` in Julia.
+
+</details>
+
 
 <br>
 
 [The Evolution of Market Power in the US Automobile Industry](/working_papers/CarMarkupsJuly2023.pdf) (July 2023)    
 (with Paul Grieco and Ali Yurukoglu)  
-Accepted for publication at *The Quarterly Journal of Economics*
+Accepted for publication at *The Quarterly Journal of Economics*  
+[Replication Package](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CZGOKP)
 <details>
 <summary>Summary</summary>
 
