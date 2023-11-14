@@ -25,6 +25,19 @@ Revisions requested from *Econometrica*
 
 </details>
 
+<br>
+
+Bundling Demand in K-12 Broadband Procurement  
+[slides, 20m](/working_papers/broadband_20m.pdf)  
+(with Gaurab Aryal, Arnab Palit, and Pallavi Pal)
+
+<details>
+<summary>Summary</summary>
+
+- Geographically bundling schools in broadband procurement had a large effect on prices and speed. We investigate why. Results suggest bundling helped overcome an exposure effect present due to the nature of fixed costs of broadband deployment.   
+
+</details>
+
 
 <br>
 
