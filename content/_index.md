@@ -27,19 +27,24 @@ Revisions requested from *Econometrica*
 
 <br>
 
-Bundling Demand in K-12 Broadband Procurement  
-[slides, 20m](/working_papers/broadband_20m.pdf)  
+---
+
+[Bundling Demand in K-12 Broadband Procurement](/working_papers/Bundling_Demand_in_K12_Feb24.pdf)  
+[arXiv](https://arxiv.org/abs/2402.07277)  
+<!-- [slides, 20m](/working_papers/broadband_20m.pdf)   -->
 (with Gaurab Aryal, Arnab Palit, and Pallavi Pal)
 
 <details>
 <summary>Summary</summary>
 
-- Geographically bundling schools in broadband procurement had a large effect on prices and speed. We investigate why. Results suggest bundling helped overcome an exposure effect present due to the nature of fixed costs of broadband deployment.   
+- Geographically bundling schools in broadband procurement had a large effect on prices and speed, likely due to improved competition and an exposure problem. We show large welfare increases to schools from the new procurement design. 
 
 </details>
 
-
 <br>
+
+---
+
 
 [The Evolution of Market Power in the US Automobile Industry](/working_papers/CarMarkupsJuly2023.pdf) (July 2023)    
 (with Paul Grieco and Ali Yurukoglu)  
@@ -54,6 +59,8 @@ Accepted for publication at *The Quarterly Journal of Economics*
 
 <br>
 
+---
+
 [Price Discrimination in International Airline Markets](https://arxiv.org/abs/2102.05751)  
 (with Gaurab Aryal and Jonathan W. Williams)  
 forthcoming at *Review of Economic Studies*  
@@ -67,6 +74,8 @@ forthcoming at *Review of Economic Studies*
 </details>
 
 <br>
+
+---
 
 [Inventory Management in Decentralized Markets](/working_papers/inventory_march2023.pdf) (March 2023)  
 (with Fei Li, Can Tan, and Yiyi Zhou)  
