@@ -57,7 +57,7 @@ Revisions requested from *Econometrica*
 [Bundling Demand in K-12 Broadband Procurement](/working_papers/Bundling_Demand_in_K12_Feb24.pdf)  
 (with Gaurab Aryal, Pallavi Pal, and Arnab Palit)  
 
-Desinging Procurement for K-12 Broadband Procurement in the Presence of Cost Complementarities
+Designing Procurement for K-12 Broadband Internet in the Presence of Cost Complementarities
 (with Gaurab Aryal, Pallavi Pal, and Arnab Palit)  
 
 Dynamic Pricing and Strategic Delay in the Market for Used Cars  
