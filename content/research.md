@@ -4,28 +4,34 @@ title = "Research"
 
 #### Publications and Accepted Manuscripts
 
-1. [The Evolution of Market Power in the US Automobile Industry](/working_papers/CarMarkupsJuly2023.pdf), 2023  
+1. [The Evolution of Market Power in the US Automobile Industry](/working_papers/CarMarkupsJuly2023.pdf)  
 (with Paul Grieco and Ali Yurukoglu)  
-Accepted @ ***The Quarterly Journal of Economics***   
+Accepted @ ***The Quarterly Journal of Economics*** (2023)    
+[https://doi.org/10.1093/qje/qjad047](https://doi.org/10.1093/qje/qjad047)  
+[appendix](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/qje/PAP/10.1093_qje_qjad047/2/qjad047_online_appendix.pdf?Expires=1711896713&Signature=dqEZUR~z9Mh67TznhUB50prYdePo2mq2ReGJXNVcWjPDBA~fcBCZxo7Lz0xPQbg3B0IBkVHTZRyuNoMl7E4oKxf-Pt2TEsfuE2gBsQk05-ECAiKHeRKSZ4YKb4gJGA~IIbM88Zvyjf7XsBSVb1aZ2nayzzVbzx-QL~mW82231coD89YgmiwQCyzHZgDZuym1~kMJ2DAU~X36~~zVyEOmA5C5GCscMU7CdZF7MM96YRUETT2C2XLPlkeFr4kRxc7auOMdYbUl-awSSh6p8GP7nrZzin8IPg6YaxKC94Qzthk5RSjKDGXmlqStklMyDWviiPi4az~PgsPFiJv7-peoFw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)  
+[--replication package--](https://doi.org/10.7910/DVN/CZGOKP)
 
-1. [Inventory Management in Decentralized Markets](/working_papers/inventory_march2023.pdf), 2023.    
+1. [Inventory Management in Decentralized Markets](/published_papers/inventory_management_2024.pdf), 2023.    
 (with Fei Li, Can Tian, and Yiyi Zhou)   
-Accepted @ ***International Economic Review***   
+***International Economic Review*** Volume 65, Issue 1 (2024): 431-470.  
+[https://doi.org/10.1111/iere.12669](https://doi.org/10.1111/iere.12669)
 
-1. [Price Discrimination in International Airline Markets](https://academic.oup.com/restud/advance-article-abstract/doi/10.1093/restud/rdad037/7084588?redirectedFrom=fulltext)  
+
+1. [Price Discrimination in International Airline Markets](/published_papers/ACMW_2024.pdf)  
 (with Gaurab Aryal and Jonathan W. Williams)   
-Forthcoming at ***Review of Economic Studies***, 2023.  
-[replicaiton package](https://zenodo.org/record/7392123)  
+***Review of Economic Studies***, Volume 90, Issue 5 (2023): 2674.    
+[https://doi.org/10.1093/restud/rdad037](https://doi.org/10.1093/restud/rdad037)  
+[*--replicaiton package--*](https://zenodo.org/record/7392123)  
 
 1. [Franchise Contract Regulations and Local Market Structure](/published_papers/Murry_Newberry_JLE_2022.pdf)  
 (with Peter Newberry)  
-***The Journal of Law and Economics***, 65, no. 1 (2022): 105-130.    
+***The Journal of Law and Economics***, Volume 65, Issue 1 (2022): 105-130.    
 
 1. [Market Structure and Competition in Airline Markets](/published_papers/CMT_JPE_2021.pdf)  
 (with Federico Ciliberto and Elie Tamer)  
 ***Journal of Political Economy***  vol. 129, no. 11 (2021).  
 [Online Appendix](/published_papers/CMT_Appendix.pdf)  
-[Replication files](https://www.journals.uchicago.edu/doi/suppl/10.1086/715848)  
+[--replication package--](https://www.journals.uchicago.edu/doi/suppl/10.1086/715848)  
 
 1. [Intermediaries and product quality in used car markets](/published_papers/Biglaiser_etal_RAND_2020.pdf)  
 (with Gary Biglaiser, Fei Li, and Yiyi Zhou)  
