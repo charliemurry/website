@@ -6,9 +6,11 @@ title = "Cirriculum Vitae"
 
 Download my complete curriculum vitae [here](/CharlesMurryCV.pdf).
 
-#### Current Academic Appointment
+#### Current Academic Appointments
 
 2023 - present, Wieler Family Associate Professor (with tenure) of Economics, **Boston College**, Chestnut Hill, MA USA   
+
+2024 - present, Research Associate, National Bureau of Economic Research.
 
 <!-- 2020 - present, Wieler Family Assistant Professor of Economics in the Morrissey College of Arts and Sciences, Boston College, Chestnut Hill, MA USA -->
 
@@ -59,6 +61,6 @@ Economics of Sports (undergraduate)
 
 2006-2008, Research Assistant at the Federal Reserve Board of Governors, Washington, D.C.  
 
-Graduate of Herndon High School (2002), Herndon, Virginia USA 
+Graduate of Herndon High School (2002), Herndon, Virginia USA. 
 
 Married with two kids. Resides in Newton, MA.  

@@ -6,12 +6,12 @@ title = "Research"
 
 1. [The Evolution of Market Power in the US Automobile Industry](/working_papers/CarMarkupsJuly2023.pdf)  
 (with Paul Grieco and Ali Yurukoglu)  
-Accepted @ ***The Quarterly Journal of Economics*** (2023)    
+***The Quarterly Journal of Economics*** Volume 139, Issue 2, May 2024, Pages 1201–1253.      
 [https://doi.org/10.1093/qje/qjad047](https://doi.org/10.1093/qje/qjad047)  
 [appendix](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/qje/PAP/10.1093_qje_qjad047/2/qjad047_online_appendix.pdf?Expires=1711896713&Signature=dqEZUR~z9Mh67TznhUB50prYdePo2mq2ReGJXNVcWjPDBA~fcBCZxo7Lz0xPQbg3B0IBkVHTZRyuNoMl7E4oKxf-Pt2TEsfuE2gBsQk05-ECAiKHeRKSZ4YKb4gJGA~IIbM88Zvyjf7XsBSVb1aZ2nayzzVbzx-QL~mW82231coD89YgmiwQCyzHZgDZuym1~kMJ2DAU~X36~~zVyEOmA5C5GCscMU7CdZF7MM96YRUETT2C2XLPlkeFr4kRxc7auOMdYbUl-awSSh6p8GP7nrZzin8IPg6YaxKC94Qzthk5RSjKDGXmlqStklMyDWviiPi4az~PgsPFiJv7-peoFw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)  
 [--replication package--](https://doi.org/10.7910/DVN/CZGOKP)
 
-1. [Inventory Management in Decentralized Markets](/published_papers/inventory_management_2024.pdf), 2023.    
+1. [Inventory Management in Decentralized Markets](/published_papers/inventory_management_2024.pdf)    
 (with Fei Li, Can Tian, and Yiyi Zhou)   
 ***International Economic Review*** Volume 65, Issue 1 (2024): 431-470.  
 [https://doi.org/10.1111/iere.12669](https://doi.org/10.1111/iere.12669)
@@ -19,7 +19,7 @@ Accepted @ ***The Quarterly Journal of Economics*** (2023)
 
 1. [Price Discrimination in International Airline Markets](/published_papers/ACMW_2024.pdf)  
 (with Gaurab Aryal and Jonathan W. Williams)   
-***Review of Economic Studies***, Volume 90, Issue 5 (2023): 2674.    
+***Review of Economic Studies***, Volume 91, Issue 2, March 2024, Pages 641–689.    
 [https://doi.org/10.1093/restud/rdad037](https://doi.org/10.1093/restud/rdad037)  
 [*--replicaiton package--*](https://zenodo.org/record/7392123)  
 
