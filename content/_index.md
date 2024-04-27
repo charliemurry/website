@@ -6,7 +6,7 @@ title = "About"
 
 {{< figure class="avatar" src="/bio-photo.jpg" alt="avatar">}}
 
-I am an economist, Wieler Family Associate Professor of Economics at [**Boston College**](https://www.bc.edu/bc-web/schools/morrissey/departments/economics.html), and Research Associate at the [**National Bureau for Economic Research**](https://www.nber.org).  I will join the University of Michigan Department of Economics starting in the fall of 2024.  
+I am an economist, Wieler Family Associate Professor of Economics at [**Boston College**](https://www.bc.edu/bc-web/schools/morrissey/departments/economics.html), and Research Associate at the [**National Bureau of Economic Research**](https://www.nber.org).  I will join the University of Michigan Department of Economics starting in the fall of 2024.  
 
 <br>
 
