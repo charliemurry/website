@@ -72,6 +72,8 @@ Dynamic Pricing and Strategic Delay in the Market for Used Cars
 
 <br>
 
-#### Inactive Drafts
+#### Inactive Drafts and Other Writing
 
 [Advertising in Vertical Relationships: An Equilibrium Model of the Automobile Industry](/working_papers/Murry_AdsVertical_2017.pdf), 2017.   
+  
+[Amicus Brief in support of the FTC CARS Rule](/amicus_cars_rule.pdf)  with Neale Mahoney, Tobias Salz, and Babur De los Santos, Mathhijs Wildenbeest
