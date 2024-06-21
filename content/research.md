@@ -62,6 +62,7 @@ Revisions requested from *Econometrica*
 
 [Bundling Demand in K-12 Broadband Procurement](/working_papers/Bundling_Demand_in_K12_Feb24.pdf)  
 (with Gaurab Aryal, Pallavi Pal, and Arnab Palit)  
+Accepted in the non-publication track at **EC'24**.  
 
 Designing Procurement for K-12 Broadband Internet in the Presence of Cost Complementarities
 (with Gaurab Aryal, Pallavi Pal, and Arnab Palit)  
@@ -72,8 +73,10 @@ Dynamic Pricing and Strategic Delay in the Market for Used Cars
 
 <br>
 
-#### Inactive Drafts and Other Writing
+#### Inactive Drafts and Other Writing and Activities
 
 [Advertising in Vertical Relationships: An Equilibrium Model of the Automobile Industry](/working_papers/Murry_AdsVertical_2017.pdf), 2017.   
   
-[Amicus Brief in support of the FTC CARS Rule](/amicus_cars_rule.pdf)  with Neale Mahoney, Tobias Salz, and Babur De los Santos, Mathhijs Wildenbeest
+[Amicus Brief in support of the FTC CARS Rule](/amicus_cars_rule.pdf)  with Neale Mahoney, Tobias Salz, and Babur De los Santos, Mathhijs Wildenbeest  
+
+Panel member for the American Bar Association panel: "Impasse or Guardian? An Analysis of State Auto Franchise Laws," June 21, 2024. 

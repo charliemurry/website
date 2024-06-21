@@ -35,7 +35,8 @@ Revisions requested from *Econometrica*
 [Bundling Demand in K-12 Broadband Procurement](/working_papers/Bundling_Demand_in_K12_Feb24.pdf)  
 [arXiv](https://arxiv.org/abs/2402.07277)  
 <!-- [slides, 20m](/working_papers/broadband_20m.pdf)   -->
-(with Gaurab Aryal, Arnab Palit, and Pallavi Pal)
+(with Gaurab Aryal, Arnab Palit, and Pallavi Pal)  
+Accepted in the non-publication track at **EC'24**  
 
 <details>
 <summary>Summary</summary>
