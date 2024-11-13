@@ -6,7 +6,7 @@ title = "About"
 
 {{< figure class="avatar" src="/bio-photo.jpg" alt="avatar">}}
 
-I am an economist, Wieler Family Associate Professor of Economics at [**Boston College**](https://www.bc.edu/bc-web/schools/morrissey/departments/economics.html), and Research Associate at the [**National Bureau of Economic Research**](https://www.nber.org).  I will join the University of Michigan Department of Economics starting in the fall of 2024.  
+I am an economist and Associate Professor of Economics at the University of Michigan. I am also a Research Associate at the [**National Bureau of Economic Research**](https://www.nber.org). 
 
 <br>
 
@@ -34,6 +34,7 @@ Revisions requested from *Econometrica*
 
 [Bundling Demand in K-12 Broadband Procurement](/working_papers/Bundling_Demand_in_K12_Feb24.pdf)  
 [arXiv](https://arxiv.org/abs/2402.07277)  
+New version coming soon! (email for questions)  
 <!-- [slides, 20m](/working_papers/broadband_20m.pdf)   -->
 (with Gaurab Aryal, Arnab Palit, and Pallavi Pal)  
 Accepted in the non-publication track at **EC'24**  
