@@ -4,18 +4,18 @@ title = "Contact"
 
 #### Email 
 
-[charles.murry@bc.edu](mailto:charles.murry@bc.edu)
+[ctmurry@umich.edu](mailto:ctmurry@umich.edu)
 <!-- * Phone: [+91-123123](tel:+91-123123) -->
 
 ---
 
 #### Mailing Address
 
-> 324 Maloney Hall
+> 258 Lorch Hall
 >
-> Boston College
+> University of Michigan
 >
-> Chestnut Hill, MA 02467
+> Ann Arbor, MI 48109
 
 <!-- --- -->
 <!-- 
