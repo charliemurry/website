@@ -52,9 +52,11 @@ title = "Research"
 
 #### Completed papers in the review process 
 
-[Conformant and Efficient Estimation of Discrete Choice Demand Models](https://paulgrieco.github.io/files/preprint/like-blp.pdf) (May 2023)  
+[Optimal Estimation of Discrete Choice Demand Models with Consumer and Product Data](http://joris.pinkse.org/publication/grumps/grumps.pdf) (January 2024)
 (with Paul Grieco, Joris Pinkse, Stephan Sagl)  
 Revisions requested from *Econometrica*  
+[NBER Working Paper w33397](https://www.nber.org/papers/w33397)  
+
 
 <br>
 
