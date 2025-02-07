@@ -8,7 +8,7 @@ Download my complete curriculum vitae [here](/CharlesMurryCV.pdf).
 
 #### Current Academic Appointments
 
-2023 - present, Wieler Family Associate Professor (with tenure) of Economics, **Boston College**, Chestnut Hill, MA USA   
+2024 - present, Associate Professor (with tenure) of Economics, **University of Michigan**   
 
 2024 - present, Research Associate, National Bureau of Economic Research.
 
@@ -16,7 +16,7 @@ Download my complete curriculum vitae [here](/CharlesMurryCV.pdf).
 
 #### Previous Academic Positions
 
-2020 - 2023, Wieler Family Assistant Professor of Economics in the Morrissey College of Arts and Sciences, Boston College, Chestnut Hill, MA USA
+2023 - 2024, Wieler Family Associate Professor of Economics in the Morrissey College of Arts and Sciences, Boston College, Chestnut Hill, MA USA
 
 2018 - 2023, Assistant Professor of Economics, Boston College, Chestnut Hill, MA USA   
 
