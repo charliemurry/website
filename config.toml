@@ -15,14 +15,15 @@ googleAnalytics = ""  # add your tracking id
     text = "By Charles Murry"
     url = "https://github.com/charliemurry"
   [params.style]  # appearance options (can be omitted)
+    headingFontFamily = "Open Sans"
     fontFamily = "Open Sans"
-    fontSize = "14pt"
-#    pageWidth = "750px"
-#    avatarSize = "90px"
-    pageWidth = "950px"
-    avatarSize = "140px"    
+    fontSize = "15pt"
+    pageWidth = "850px"
+    lineHeight = "1.6"
+    avatarSize = "220px"    
     colorBlack = "#222222"
-    colorRed = "#dc3545"
+    colorRed = "#222840"   # This controls links
+    colorAccent = "#2962ff"  # A professional blue for links
   [[params.socialIcons]]
     icon = "fab fa-twitter"
     title = "Twitter"
