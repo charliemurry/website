@@ -15,7 +15,7 @@ googleAnalytics = ""  # add your tracking id
     text = "By Charles Murry"
     url = "https://github.com/charliemurry"
   [params.style]  # appearance options (can be omitted)
-    fontFamily = "Inconsolata"
+    fontFamily = "Open Sans"
     fontSize = "14pt"
 #    pageWidth = "750px"
 #    avatarSize = "90px"
