@@ -16,7 +16,7 @@ My main fields of research are empirical industrial organization and antitrust e
 
 ## Current and Recent Research
 
-[**Optimal Estimation of Discrete Choice Demand Models with Consumer and Product Data**](http://joris.pinkse.org/publication/grumps/grumps.pdf) (January 2024)
+[**Optimal Estimation of Discrete Choice Demand Models with Consumer and Product Data**](http://joris.pinkse.org/publication/grumps/grumps.pdf) (January 2025)
 (with Paul Grieco, Joris Pinkse, Stephan Sagl)  
 Revisions requested from *Econometrica*  
 [NBER Working Paper w33397](https://www.nber.org/papers/w33397)  
@@ -33,7 +33,7 @@ Revisions requested from *Econometrica*
 
 ---
 
-[**Bundling Demand in K-12 Broadband Procurement**](/working_papers/bundling_Feb25.pdf)  
+[**Bundling Demand in K-12 Broadband Procurement**](/working_papers/bundling_Feb25.pdf) [Feb. 2025]   
 [arXiv](https://arxiv.org/abs/2402.07277)  
 (with Gaurab Aryal, Arnab Palit, and Pallavi Pal)  
 Accepted in the non-publication track at **EC'24**  
